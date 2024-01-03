@@ -14,14 +14,14 @@ This project entails creating a C-language program called "tarsau," akin to arch
 - Checks for appropriate archive file and directory names.
 - Creates directory if non-existent and preserves file permissions.
 
-#Archive File Format (.sau):
+# Archive File Format (.sau):
 
 - Consists of two sections: Organization info and Archived files.
 - Organization section: Holds metadata (file name, permissions, size).
 - Archived files: Stored in ASCII without delimiters, with the last character indicating EOF.
 
 
-#Steps Involved:
+# Steps Involved:
 
 - Design and implement "tarsau" program in C.
 - Ensure functionality to combine text files without compression.
