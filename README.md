@@ -1,6 +1,6 @@
 This project entails creating a C-language program called "tarsau," akin to archiving tools like tar, rar, or zip, but without compression. Here's a summary:
 
-#Program Overview:
+# Program Overview:
 
 ## tarsau –b: 
 - Combines text files (ASCII, 1 byte per character) into a single text file.
@@ -28,7 +28,6 @@ This project entails creating a C-language program called "tarsau," akin to arch
 - Validate input file formats and handle errors gracefully.
 - Create the archive file in the specified format.
 - Implement extraction of files from the archive with correct permissions.
--
--
 
--The project requires careful handling of file operations, error checking, and adherence to the specified file format. Collaboration and version control using GitHub are also integral to the development process.
+
+The project requires careful handling of file operations, error checking, and adherence to the specified file format. Collaboration and version control using GitHub are also integral to the development process.
